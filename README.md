@@ -4,12 +4,6 @@ A modern and responsive **Task Management Dashboard** built with **React** and *
 
 ---
 
-## 🌐 Live URL
-
-**Live Demo**: (https://your-deployment-url.com)
-
-
----
 
 ## 🧠 Features
 
